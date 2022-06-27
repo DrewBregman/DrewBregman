@@ -1,10 +1,11 @@
 # Hi, I'm Drew 🦋✨
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+<img src="https://github.com/DrewBregman/drew/blob/main/JPG%20file%20(1).jpg" alt="banner of Lazul logo">
+
+I'm a startup founder and software engineer who is passionate about education, hiring, and tech. Some technologies I enjoy working with include Elixir, flutter, ReactJS, and python. In 2022, I started  <a href="https://lazul.io/">Lazul Software, Inc.</a>--a startup that's building a place for people to validate their own competence My life's mission is to lessen human suffering, preserve the natural world, and unlock the secrets of the universe.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://giphy.com/gifs/loop-good-paper-3ohzgKvjHrXC3M44yQ"></a>
+- Sharing updates on <a href="https://www.linkedin.com/in/andrewcbregman/">LinkedIn</a> 
+- TODO: Personal Website <a href="https://www.lazul.io/">TODO</a> 
+
