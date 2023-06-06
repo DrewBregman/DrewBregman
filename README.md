@@ -1,6 +1,6 @@
 # Hi, I'm Drew 🦋✨
 
-![](https://komarev.com/ghpvc/?DrewBregman&color=6A0F8Estyle=plastic)
+![](https://komarev.com/ghpvc/?username=DrewBregman&color=6A0F8Estyle=plastic)
 
 Pursuing my love for building, people, and learning through my company <a href="https://lazul.ai/">Lazul</a>
 
